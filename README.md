@@ -1,2 +1,2 @@
 # game-of-life
-Small implementation of Conway's Game of Life
+The small implementation of Conway's Game of Life
